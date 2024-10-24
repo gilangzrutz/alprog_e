@@ -1,0 +1,26 @@
+﻿
+Nama: EKA PUTRA GILANG RAMADHAN
+Prodi: Pendidikan Teknologi Informasi 
+Kelas: E
+Rangkuman Natural Language Processing (NLP)
+Natural Language Processing (NLP) adalah bidang ilmu komputer yang berfokus pada interaksi antara komputer dan bahasa manusia. NLP memungkinkan komputer untuk “memahami” dan “mengolah” bahasa manusia, seperti teks dan ucapan, dengan cara yang sama seperti manusia.
+Tujuan NLP:
+Memahami bahasa manusia: NLP bertujuan untuk membuat komputer mampu memahami makna dan konteks dalam bahasa manusia, seperti yang dilakukan manusia.
+Memproses bahasa manusia: NLP memungkinkan komputer untuk memproses bahasa manusia, seperti menganalisis teks, menerjemahkan bahasa, dan menghasilkan teks baru.
+Teknik NLP:
+Pemrosesan Teks: NLP menggunakan berbagai teknik untuk memproses teks, seperti tokenisasi (memecah teks menjadi kata-kata), stemming (mengurangi kata ke bentuk dasarnya), dan lemmatization (menemukan bentuk dasar kata).
+Analisis Sentimen: NLP dapat digunakan untuk menganalisis sentimen dalam teks, seperti menentukan apakah teks tersebut positif, negatif, atau netral.
+Pengenalan Ucapan: NLP memungkinkan komputer untuk mengenali dan memahami ucapan manusia.
+Pembuatan Bahasa Alami (NLG): NLP dapat digunakan untuk menghasilkan teks baru, seperti menulis artikel, membuat ringkasan, dan menerjemahkan bahasa.
+Aplikasi NLP:
+Pencarian Informasi: Mesin pencari menggunakan NLP untuk memahami permintaan pencarian dan menampilkan hasil yang relevan.
+Penerjemahan Mesin: NLP digunakan untuk menerjemahkan teks dari satu bahasa ke bahasa lain.
+Asisten Virtual: Asisten virtual seperti Siri dan Alexa menggunakan NLP untuk memahami perintah suara dan memberikan respons yang sesuai.
+Analisis Sentimen: NLP digunakan untuk menganalisis sentimen dalam ulasan produk, komentar media sosial, dan data lainnya.
+Pemrosesan Dokumen: NLP digunakan untuk memproses dokumen, seperti mengekstrak informasi penting, mengklasifikasikan dokumen, dan meringkas dokumen.
+Tantangan NLP:
+Ambiguitas Bahasa: Bahasa manusia penuh dengan ambiguitas, yang membuat sulit bagi komputer untuk memahami makna yang sebenarnya.
+Variasi Bahasa: Bahasa manusia sangat beragam, dengan berbagai dialek, aksen, dan gaya bahasa.
+Data yang Tidak Terstruktur: Data bahasa manusia seringkali tidak terstruktur, yang membuat sulit bagi komputer untuk memprosesnya.
+Kesimpulan:
+NLP adalah bidang yang terus berkembang dengan potensi besar untuk mengubah cara kita berinteraksi dengan komputer. Dengan kemajuan teknologi, NLP akan semakin canggih dan akan memiliki dampak yang lebih besar pada kehidupan kita.
